@@ -1,0 +1,172 @@
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\obj\x86\Debug\PlatformerProject.csprojResolveAssemblyReference.cache
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\obj\x86\Debug\PlatformerProject.csproj.CoreCompileInputs.cache
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\PlatformerProject.exe
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\PlatformerProject.pdb
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\obj\x86\Debug\PlatformerProject.csproj.CopyComplete
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\obj\x86\Debug\PlatformerProject.exe
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\obj\x86\Debug\PlatformerProject.pdb
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Particles\circle.xnb
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Particles\diamond.xnb
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Particles\explosion.xnb
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Particles\square.xnb
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Particles\star.xnb
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\TiledSharp.dll
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Testing\Skeleton Walk.xnb
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Testing\Skeleton Idle.xnb
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\PlatformerProject.exe.config
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\MonoGame.Extended.dll
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\MonoGame.Extended.Graphics.dll
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\MonoGame.Extended.Tiled.dll
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\MonoGame.Extended.pdb
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\MonoGame.Extended.Graphics.pdb
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\MonoGame.Extended.Tiled.pdb
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Newtonsoft.Json.xml
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\platformer_grass_1.xnb
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Tilesets\platformer_grass_1.xnb
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Music\06 Tonal Dissonance.wma
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Music\06 Tonal Dissonance.xnb
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Player\01.xnb
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Player\hat_guy_fall.xnb
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Player\hat_guy_idle.xnb
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Player\hat_guy_jump.xnb
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Player\hat_guy_run.xnb
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Player\hat_guy_slash.xnb
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Player\slash.xnb
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Backgrounds\game_background_4.xnb
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Backgrounds\rocks_2.xnb
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Player\hat_guy_death.xnb
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Player\hat_guy_hurt.xnb
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Player\03.xnb
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Player\00.xnb
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Player\06.xnb
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Enemies\Skeleton\02.xnb
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Enemies\Skeleton\05.xnb
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Enemies\Skeleton\17.xnb
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Enemies\Skeleton\Blow 2.xnb
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Enemies\Skeleton\skeleton_attack.xnb
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Enemies\Skeleton\skeleton_dead.xnb
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Enemies\Skeleton\skeleton_hit.xnb
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Enemies\Skeleton\skeleton_idle.xnb
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Enemies\Skeleton\skeleton_react.xnb
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Enemies\Skeleton\skeleton_walk.xnb
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Enemies\Goblin\goblin attack.xnb
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Enemies\Goblin\goblin death.xnb
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Enemies\Goblin\goblin idle.xnb
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Enemies\Goblin\goblin run.xnb
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Enemies\Goblin\17.xnb
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Enemies\Goblin\03.xnb
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Enemies\Blob Man\blob minion idle.xnb
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Enemies\Blob Man\blob minion punch.xnb
+C:\Users\Luke\Documents\My Files\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Enemies\Blob Man\blob minion walk.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Testing\Skeleton Idle.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Testing\Skeleton Walk.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\platformer_grass_1.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Music\06 Tonal Dissonance.wma
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Music\06 Tonal Dissonance.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Enemies\Skeleton\02.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Enemies\Skeleton\05.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Enemies\Skeleton\17.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Enemies\Skeleton\Blow 2.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Enemies\Skeleton\skeleton_attack.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Enemies\Skeleton\skeleton_dead.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Enemies\Skeleton\skeleton_hit.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Enemies\Skeleton\skeleton_idle.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Enemies\Skeleton\skeleton_react.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Enemies\Skeleton\skeleton_walk.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Tilesets\platformer_grass_1.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Enemies\Goblin\03.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Enemies\Goblin\17.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Enemies\Goblin\goblin attack.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Enemies\Goblin\goblin death.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Enemies\Goblin\goblin idle.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Enemies\Goblin\goblin run.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Enemies\Blob Man\blob minion idle.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Enemies\Blob Man\blob minion punch.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Enemies\Blob Man\blob minion walk.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Player\00.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Player\01.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Player\03.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Player\06.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Player\hat_guy_death.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Player\hat_guy_fall.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Player\hat_guy_hurt.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Player\hat_guy_idle.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Player\hat_guy_jump.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Player\hat_guy_run.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Player\hat_guy_slash.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Particles\circle.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Particles\diamond.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Particles\explosion.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Particles\square.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Particles\star.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Backgrounds\game_background_4.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Backgrounds\rocks_2.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\PlatformerProject.exe.config
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\PlatformerProject.exe
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\PlatformerProject.pdb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\MonoGame.Extended.dll
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\MonoGame.Extended.Graphics.dll
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\MonoGame.Extended.Tiled.dll
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\TiledSharp.dll
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\MonoGame.Extended.pdb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\MonoGame.Extended.Graphics.pdb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\MonoGame.Extended.Tiled.pdb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Newtonsoft.Json.xml
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\obj\x86\Debug\PlatformerProject.csprojResolveAssemblyReference.cache
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\obj\x86\Debug\PlatformerProject.csproj.CoreCompileInputs.cache
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\obj\x86\Debug\PlatformerProject.csproj.CopyComplete
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\obj\x86\Debug\PlatformerProject.exe
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\obj\x86\Debug\PlatformerProject.pdb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Enemies\Blob\blob death.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Enemies\Blob\blob idle.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Enemies\Blob\blob move.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Player\swing.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Enemies\Blob Man\slime1.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Enemies\Blob Man\slime5.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Enemies\Blob Man\slime8.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Enemies\Blob\slime2.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Enemies\Blob\slime4.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Enemies\Blob\slime6.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Enemies\Blob\17.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Fonts\Logo.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Fonts\Button.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Controls\button.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Controls\largebutton.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Fonts\Health.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Controls\tone1.wma
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Controls\tone1.xnb
+C:\Users\Luke\Documents\_Files_\Programming\C#\Monogame\PlatformerProject\PlatformerProject\bin\Windows\x86\Debug\Content\Controls\interface5.xnb

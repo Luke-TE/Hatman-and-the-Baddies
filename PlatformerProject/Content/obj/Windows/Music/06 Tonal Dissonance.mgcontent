@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Luke/Documents/My Files/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Music/06 Tonal Dissonance.mp3</SourceFile>
+  <SourceTime>2017-07-25T00:44:12+01:00</SourceTime>
+  <DestFile>C:/Users/Luke/Documents/My Files/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/bin/Windows/Music/06 Tonal Dissonance.xnb</DestFile>
+  <DestTime>2018-04-14T14:39:03.017727+01:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2018-01-20T23:59:38+00:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2018-01-20T23:59:38+00:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/Luke/Documents/My Files/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/bin/Windows/Music/06 Tonal Dissonance.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

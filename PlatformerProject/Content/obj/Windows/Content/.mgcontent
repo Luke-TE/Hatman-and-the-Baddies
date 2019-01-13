@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Backgrounds/game_background_4.png</File>
+    <File>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Backgrounds/rocks_2.png</File>
+    <File>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Controls/button.png</File>
+    <File>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Controls/interface5.wav</File>
+    <File>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Controls/largebutton.png</File>
+    <File>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Controls/tone1.mp3</File>
+    <File>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Enemies/Blob Man/blob minion idle.png</File>
+    <File>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Enemies/Blob Man/blob minion punch.png</File>
+    <File>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Enemies/Blob Man/blob minion walk.png</File>
+    <File>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Enemies/Blob Man/slime1.wav</File>
+    <File>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Enemies/Blob Man/slime5.wav</File>
+    <File>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Enemies/Blob Man/slime8.wav</File>
+    <File>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Enemies/Blob/17.wav</File>
+    <File>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Enemies/Blob/blob death.png</File>
+    <File>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Enemies/Blob/blob idle.png</File>
+    <File>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Enemies/Blob/blob move.png</File>
+    <File>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Enemies/Blob/slime2.wav</File>
+    <File>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Enemies/Blob/slime4.wav</File>
+    <File>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Enemies/Blob/slime6.wav</File>
+    <File>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Enemies/Goblin/03.wav</File>
+    <File>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Enemies/Goblin/17.wav</File>
+    <File>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Enemies/Goblin/goblin attack.png</File>
+    <File>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Enemies/Goblin/goblin death.png</File>
+    <File>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Enemies/Goblin/goblin idle.png</File>
+    <File>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Enemies/Goblin/goblin run.png</File>
+    <File>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Enemies/Skeleton/02.wav</File>
+    <File>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Enemies/Skeleton/05.wav</File>
+    <File>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Enemies/Skeleton/17.wav</File>
+    <File>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Enemies/Skeleton/Blow 2.wav</File>
+    <File>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Enemies/Skeleton/skeleton_attack.png</File>
+    <File>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Enemies/Skeleton/skeleton_dead.png</File>
+    <File>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Enemies/Skeleton/skeleton_hit.png</File>
+    <File>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Enemies/Skeleton/skeleton_idle.png</File>
+    <File>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Enemies/Skeleton/skeleton_react.png</File>
+    <File>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Enemies/Skeleton/skeleton_walk.png</File>
+    <File>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Fonts/Button.spritefont</File>
+    <File>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Fonts/Health.spritefont</File>
+    <File>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Fonts/Logo.spritefont</File>
+    <File>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Music/06 Tonal Dissonance.mp3</File>
+    <File>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Particles/circle.png</File>
+    <File>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Particles/diamond.png</File>
+    <File>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Particles/explosion.png</File>
+    <File>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Particles/square.png</File>
+    <File>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Particles/star.png</File>
+    <File>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Player/00.wav</File>
+    <File>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Player/01.wav</File>
+    <File>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Player/03.wav</File>
+    <File>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Player/06.wav</File>
+    <File>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Player/hat_guy_death.png</File>
+    <File>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Player/hat_guy_fall.png</File>
+    <File>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Player/hat_guy_hurt.png</File>
+    <File>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Player/hat_guy_idle.png</File>
+    <File>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Player/hat_guy_jump.png</File>
+    <File>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Player/hat_guy_run.png</File>
+    <File>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Player/hat_guy_slash.png</File>
+    <File>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Player/swing.wav</File>
+    <File>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Tilesets/platformer_grass_1.png</File>
+  </SourceFiles>
+</SourceFileCollection>

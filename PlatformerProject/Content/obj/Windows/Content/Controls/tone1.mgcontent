@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Controls/tone1.mp3</SourceFile>
+  <SourceTime>2012-10-08T23:45:23.3006055+01:00</SourceTime>
+  <DestFile>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/bin/Windows/Content/Controls/tone1.xnb</DestFile>
+  <DestTime>2018-05-09T19:44:41.6833446+01:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2018-01-20T23:59:38+00:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2018-01-20T23:59:38+00:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/bin/Windows/Content/Controls/tone1.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

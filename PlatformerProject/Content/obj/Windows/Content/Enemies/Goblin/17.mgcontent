@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Enemies/Goblin/17.wav</SourceFile>
+  <SourceTime>2016-06-28T12:14:36+01:00</SourceTime>
+  <DestFile>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/bin/Windows/Content/Enemies/Goblin/17.xnb</DestFile>
+  <DestTime>2018-05-04T20:25:30.1789228+01:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2018-01-20T23:59:38+00:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-01-20T23:59:38+00:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

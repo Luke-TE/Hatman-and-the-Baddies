@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Player/swing.wav</SourceFile>
+  <SourceTime>2011-03-02T17:23:58+00:00</SourceTime>
+  <DestFile>C:/Users/Luke/Documents/_Files_/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/bin/Windows/Content/Player/swing.xnb</DestFile>
+  <DestTime>2018-05-06T19:06:19.3425947+01:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2018-01-20T23:59:38+00:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-01-20T23:59:38+00:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

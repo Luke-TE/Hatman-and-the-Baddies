@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Luke/Documents/My Files/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Backgrounds/game_background_4.png</File>
+    <File>C:/Users/Luke/Documents/My Files/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Backgrounds/rocks_2.png</File>
+    <File>C:/Users/Luke/Documents/My Files/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Music/06 Tonal Dissonance.mp3</File>
+    <File>C:/Users/Luke/Documents/My Files/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Particles/circle.png</File>
+    <File>C:/Users/Luke/Documents/My Files/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Particles/diamond.png</File>
+    <File>C:/Users/Luke/Documents/My Files/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Particles/explosion.png</File>
+    <File>C:/Users/Luke/Documents/My Files/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Particles/square.png</File>
+    <File>C:/Users/Luke/Documents/My Files/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Particles/star.png</File>
+    <File>C:/Users/Luke/Documents/My Files/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Player/01.wav</File>
+    <File>C:/Users/Luke/Documents/My Files/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Player/hat_guy_fall.png</File>
+    <File>C:/Users/Luke/Documents/My Files/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Player/hat_guy_idle.png</File>
+    <File>C:/Users/Luke/Documents/My Files/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Player/hat_guy_jump.png</File>
+    <File>C:/Users/Luke/Documents/My Files/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Player/hat_guy_killed.png</File>
+    <File>C:/Users/Luke/Documents/My Files/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Player/hat_guy_run.png</File>
+    <File>C:/Users/Luke/Documents/My Files/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Player/hat_guy_slash.png</File>
+    <File>C:/Users/Luke/Documents/My Files/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Player/slash.wav</File>
+    <File>C:/Users/Luke/Documents/My Files/Programming/C#/Monogame/PlatformerProject/PlatformerProject/Content/Tilesets/platformer_grass_1.png</File>
+  </SourceFiles>
+</SourceFileCollection>
