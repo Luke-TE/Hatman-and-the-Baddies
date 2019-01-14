@@ -1,2 +1,2 @@
 # Hatman-and-the-Baddies
-A 2D platformer game produced in Monogame 
+2D platformer game in C# using the Monogame framework with vector physics based on Newtonian mechanics.
